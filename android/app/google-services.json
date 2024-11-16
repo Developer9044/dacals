@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428825737342",
+    "project_id": "da-calculator-e38e1",
+    "storage_bucket": "da-calculator-e38e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428825737342:android:639a595114b8baacad402f",
+        "android_client_info": {
+          "package_name": "com.dacalulator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAuGFhotBTk4oTrcB9PvBQC-2gIGpfjXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

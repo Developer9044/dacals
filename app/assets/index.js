@@ -1,0 +1,50 @@
+export const images = {
+  homeBgImage: require("./images/backImg.png"),
+  userProfile: require("./icons/Profile.png"),
+  menu: require("./icons/hamburger.png"),
+  searchIcon: require("./icons/search.png"),
+  no_user: require("./icons/user.png"),
+  back: require("./icons/back.png"),
+  circle: require("./icons/circle.png"),
+  up: require("./icons/up_down.png"),
+  down: require("./icons/down-arrow.png"),
+  down2: require("./icons/down-arrow2.png"),
+  check_in: require("./icons/check.png"),
+  check_out: require("./icons/check_out.png"),
+  star: require("./icons/star.png"),
+
+  professor: require("./appLogo/professor.png"),
+  media: require("./appLogo/media.png"),
+  scientist: require("./appLogo/scientist.png"),
+  doctor: require("./appLogo/doctor.png"),
+  engineer: require("./appLogo/engineer.png"),
+  pilot: require("./appLogo/pilot.png"),
+  child_choice: require("./appLogo/child-choice.png"),
+
+  info: require("./appLogo/info.png"),
+  rupee: require("./appLogo/rupee.png"),
+  calendar: require("./appLogo/Calendar.png"),
+};
+
+export const homeIconImg = {
+  fixImg: require("./appLogo/fixed-deposit.png"),
+  termImg: require("./appLogo/term-insurance.png"),
+  childImg: require("./appLogo/child-education.png"),
+  rdImg: require("./appLogo/recurring.png"),
+  sipImg: require("./appLogo/sip.png"),
+  retirementImg: require("./appLogo/retirement.png"),
+  ppfImg: require("./appLogo/ppf.png"),
+  incomeImg: require("./appLogo/income-tax.png"),
+  cagrImg: require("./appLogo/compound.png"),
+  futureImg: require("./appLogo/future.png"),
+  presentImg: require("./appLogo/current-account.png"),
+  healthImg: require("./appLogo/health.png"),
+
+  //TODO Health Tools
+  bmiImg: require("./appLogo/bmiIcon.png"),
+  segImg: require("./appLogo/seg.jpg"),
+  bodyWeightImg: require("./appLogo/bodyWeight.png"),
+  fluidImg: require("./appLogo/fluidImg.png"),
+  egfrImg: require("./appLogo/egfrImg.png"),
+  bodySurface: require("./appLogo/bodySurface.jpg"),
+};
